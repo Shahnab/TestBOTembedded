@@ -10,4 +10,4 @@ with col2:
     st.markdown("#### Carlsberg Concierge: Your Personal Life, Business and Career Coach")
 
 # embed streamlit docs in a streamlit app
-st.components.v1.iframe("https://ora.sh/embed/691f153b-12db-4243-b1d2-2eb069118ffc", width=1250, height=500, scrolling=True)
+st.components.v1.iframe("https://ora.sh/embed/691f153b-12db-4243-b1d2-2eb069118ffc", width=1250, height=550, scrolling=True)
